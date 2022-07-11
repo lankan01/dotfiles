@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = pjega92@gmail.com
+	name = Jega Pradeeba
